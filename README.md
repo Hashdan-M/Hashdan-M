@@ -3,7 +3,7 @@
 - <b>Vulnerability Management</b>
   - [Vulnerability Management With Tenable Nessus](https://github.com/Hashdan-M/Vulnerability-Management-With-Tenable-Nessus)
 - <b>Security Information and Event Management (SIEM)</b>
-  - [Perform a query with Splunk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Perform a query with Splunk](https://github.com/Hashdan-M/Perform-a-query-with-Splunk)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
