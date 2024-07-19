@@ -2,8 +2,8 @@
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Management With Tenable Nessus](https://github.com/Hashdan-M/Vulnerability-Management-With-Tenable-Nessus)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Security Information and Event Management (SIEM)</b>
+  - [Perform a query with Splunk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
