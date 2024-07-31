@@ -1,7 +1,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - [Vulnerability Management With Tenable Nessus](https://github.com/Hashdan-M/Vulnerability-Management-With-Tenable-Nessus)
+  - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Vulnerability-Management-With-Tenable-Nessus)
 - <b>Security Information and Event Management (SIEM)</b>
   - [Perform a query with Splunk](https://github.com/Hashdan-M/Perform-a-query-with-Splunk)
 - <b>PowerShell</b>
