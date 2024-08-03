@@ -1,4 +1,4 @@
-<h2>Cybersecurity Projects:</h2>
+<h2>IT & Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
   - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Tenable-Nessus-Scan-and-Remediation)
