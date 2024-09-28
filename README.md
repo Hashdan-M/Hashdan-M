@@ -7,4 +7,4 @@
 - <b>Security Information and Event Management (SIEM)</b>
   - [Perform a Query with Splunk](https://github.com/Hashdan-M/Perform-a-query-with-Splunk)
 - <b>Digital Forensics</b>
-  - [Forensic Imaging Using EnCase Imager](https://github.com/Hashdan-M/Forensic-Imaging-Using-EnCase-Image)
+  - [Forensic Imaging Using EnCase Imager](https://github.com/Hashdan-M/Forensic-Imaging-Using-EnCase-Imager)
