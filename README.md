@@ -9,3 +9,4 @@
 - <b>Digital Forensics</b>
   - [Forensic Imaging Using EnCase Imager](https://github.com/Hashdan-M/Forensic-Imaging-Using-EnCase-Imager)
   - [Recovering Deleted Files & File Carving with FTK Imager](https://github.com/Hashdan-M/Recovering-Deleted-Files-File-Carving-with-FTK-Imager)
+  - [Malware Analysis With X-Ways WinHex](https://github.com/Hashdan-M/Malware-Analysis-With-X-Ways-WinHex)
