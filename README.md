@@ -8,3 +8,4 @@
   - [Perform a Query with Splunk](https://github.com/Hashdan-M/Perform-a-query-with-Splunk)
 - <b>Digital Forensics</b>
   - [Forensic Imaging Using EnCase Imager](https://github.com/Hashdan-M/Forensic-Imaging-Using-EnCase-Imager)
+  - [Recovering Deleted Files & File Carving with FTK Imager](https://github.com/Hashdan-M/Recovering-Deleted-Files-File-Carving-with-FTK-Imager)
