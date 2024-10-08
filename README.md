@@ -6,6 +6,7 @@
   - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Tenable-Nessus-Scan-and-Remediation)
 - <b>Security Information and Event Management (SIEM)</b>
   - [Perform a Query with Splunk](https://github.com/Hashdan-M/Perform-a-query-with-Splunk)
+  - [Incident Response Detection with Wazuh](https://github.com/Hashdan-M/Incident-Response-Detection-with-Wazuh)
 - <b>Digital Forensics</b>
   - [Forensic Imaging Using EnCase Imager](https://github.com/Hashdan-M/Forensic-Imaging-Using-EnCase-Imager)
   - [Recovering Deleted Files & File Carving with FTK Imager](https://github.com/Hashdan-M/Recovering-Deleted-Files-File-Carving-with-FTK-Imager)
