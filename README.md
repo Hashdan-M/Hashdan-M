@@ -1,6 +1,6 @@
 <h2>IT & Cybersecurity Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>Identity and Access Management (IAM)</b>
   - [Installing & Utilizing Active Directory](https://github.com/Hashdan-M/Utilizing-Active-Directory)
 - <b>Vulnerability Management</b>
   - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Tenable-Nessus-Scan-and-Remediation)
