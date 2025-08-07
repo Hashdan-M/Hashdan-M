@@ -2,6 +2,8 @@
 
 - <b>Identity and Access Management (IAM)</b>
   - [Installing & Utilizing Active Directory](https://github.com/Hashdan-M/Utilizing-Active-Directory)
+- <b>Network</b> 
+  - [Analyze Network Traffic with Wireshark](https://github.com/Hashdan-M/Analyze-Network-Traffic-with-Wireshark)
 - <b>Vulnerability Management</b>
   - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Tenable-Nessus-Scan-and-Remediation)
   - [Vulnerability Scanning with Greenbone OpenVAS](https://github.com/Hashdan-M/Vulnerability-Scanning-with-Greenbone-OpenVAS)
