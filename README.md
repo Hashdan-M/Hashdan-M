@@ -2,7 +2,8 @@
 
 - <b>Identity and Access Management (IAM)</b>
   - [Installing & Utilizing Active Directory](https://github.com/Hashdan-M/Utilizing-Active-Directory)
-- <b>Network</b> 
+- <b>Network</b>
+  - [DHCP Server and VLAN Routing using Cisco Packet Tracer](https://github.com/Hashdan-M/DHCP-Server-and-VLAN-routing-using-Packet-Tracer)
   - [Analyze Network Traffic with Wireshark](https://github.com/Hashdan-M/Analyze-Network-Traffic-with-Wireshark)
 - <b>Vulnerability Management</b>
   - [Tenable Nessus Scan and Remediation](https://github.com/Hashdan-M/Tenable-Nessus-Scan-and-Remediation)
